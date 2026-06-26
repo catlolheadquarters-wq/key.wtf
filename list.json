@@ -1,8 +1,8 @@
 {
-  "HQA_HI_1TIB_J7SU_4XDV": {
-    "used": true,
+  "HQA_HI_1TIB_J7SU_4XDV_AHQD": {
+    "used": false,
     "username": "ototibun",
     "registeredAt": "2026-06-26T19:55:41.822Z",
-    "admin": false
+    "admin": true
   }
 }
