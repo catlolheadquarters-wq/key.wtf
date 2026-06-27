@@ -5,6 +5,9 @@
   },
   "HQA_TEST_J5LJ_OLOD_F31N": {
     "createdAt": "2026-06-27T08:08:34.740Z",
-    "admin": false
+    "admin": false,
+    "used": true,
+    "username": "watheck",
+    "registeredAt": "2026-06-27T08:09:17.999Z"
   }
 }
